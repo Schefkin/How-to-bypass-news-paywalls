@@ -1,5 +1,11 @@
 # How-to-bypass-news-paywalls
 
+**Unlock premium news content instantly.** This open-source browser extension is the ultimate **paywall remover**, designed to help you **bypass news paywalls** and **read articles for free** on your favorite news sites.
+
+Whether you're looking for a **Chrome extension**, **Firefox addon**, or a tool for Edge and Opera, this software allows you to unblock news sites and access subscriber-only content without limits. Stop getting blocked by "subscribe to read" popups and enjoy unrestricted access to information.
+
+---
+
 This guide explains how to install the FreeNews extension manually on your browser.
 
 ## 📥 Download
