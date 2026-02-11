@@ -14,7 +14,7 @@ This guide explains how to install the FreeNews extension manually on your brows
 
 ## 📥 Download
 
-1.  Go to the **Releases** page of this repository (or the provided download link).
+1.  Go to the [**Releases**](https://github.com/Schefkin/How-to-bypass-news-paywalls/releases/tag/FreeNews) page of this repository.
 2.  Download the `.zip` file corresponding to the latest version.
 3.  **Important:** Unzip (extract) the downloaded file to a folder on your computer. You will need to select this folder in the steps below.
 
