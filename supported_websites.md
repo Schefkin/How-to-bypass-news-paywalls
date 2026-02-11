@@ -9,7 +9,567 @@ If you find a news site that works great with this extension, please submit it t
 
 ## Confirmed Working Sites
 
+- 360Dx
+- ABC
+- AL/Alabama
+- Aamulehti
+- Ad Age
+- Adweek
+- Aftonbladet
+- Allgäuer Zeitung
+- Alternatives Economiques
+- American Affairs
+- American Banker
+- Apollo Magazine
+- Ara Balears
+- Ara.cat
+- Arizona Daily Star
+- Artnet
+- Arvopaperi
+- Asia Times
+- Atavist Magazine
+- Atlantico
+- Augsburger Allgemeine
+- Austin American-Statesman
+- Automobilwoche
+- Automotive News
+- BBC History Extra
+- Backpacker
+- Badische Neueste Nachrichten
+- Baltimore Sun
+- Barron's
+- Belfast Telegraph
+- Belleville News-Democrat
+- Bendigo Advertiser
+- Berliner Morgenpost
+- Berliner Zeitung
+- Berlingske
+- Beta
+- Better Nutrition
+- Better Programming
+- Bicycling
+- Billboard
+- Bloomberg
+- Bloomberg Quint
+- Bon Appétit
+- Braunschweiger Zeitung
+- Brisbane Times
+- Business Insider
+- Business Standard
+- Cairns Post
+- Calgary Herald
+- Capital Gazette
+- Causeur
+- Central Western Daily
+- Centre Presse
+- Challenges
+- Charente libre
+- Charlie Hebdo
+- Chemical & Engineering News
+- Chicago Tribune
+- Chronicle of Higher Education
+- Cicero
+- Clarín
+- Clean Eating
+- Climbing
+- Code Sports
+- Commentary Magazine
+- CommonWealth Magazine Taiwan
+- Connaissance des Arts
+- Correio da Manhã
+- Corriere Adriatico
+- Corriere della Sera
+- Corriere dello Sport
+- Cosmopolitan
+- Country Living
+- Crain's Chicago Business
+- Crain's Cleveland Business
+- Crain's Detroit Business
+- Crain's New York Business
+- Curbed
+- Cycling Tips
+- Dagblad van het Noorden
+- Dagens Industri
+- Dagens Nyheter
+- Daily Liberal
+- Daily Nation
+- Daily Press
+- Dark Reading
+- De Gooi- en Eemlander
+- De Morgen
+- De Tijd
+- Dernières Nouvelles d'Alsace
+- Detroit Free Press
+- Deutsche Wirtschafts Nachrichten
+- Diario Vasco
+- Diario de Mallorca
+- Die Rheinpfalz
+- Die Zeit
+- Digiday
+- Discover Magazine
+- Domani
+- ESPN USA
+- EUobserver
+- East Bay Times
+- Eastwest
+- El Comercio
+- El Confidencial
+- El Correo
+- El Diario Montañés
+- El Diario.es
+- El Día
+- El Español
+- El Mundo
+- El Norte de Castilla
+- El País
+- El Periódico de Catalunya
+- El Periódico de España
+- Elle
+- Elle USA
+- Encyclopedia Britannica
+- Entrepreneur
+- Esprit
+- Esquire
+- Eureka Report
+- Exame
+- Expansión
+- Faro de Vigo
+- Finance.si
+- Financial News
+- Financial Post
+- Financial Times
+- Financieele Dagblad
+- First Things
+- Folha de S. Paulo
+- Follow the Money
+- Forbes
+- Foreign Affairs
+- Foreign Policy
+- Fort Worth Star-Telegram
+- Fortune
+- Franc-Tireur
+- Frankfurter Allgemeine Zeitung
+- Freie Presse
+- GC
+- GElocal.it
+- Gazet van Antwerpen
+- Geelong Advertiser
+- GenomeWeb
+- Glassdoor
+- Globes
+- Gold Coast Bulletin
+- Good Housekeeping
+- Griffith Review
+- Groene Amsterdammer
+- Grub Street
+- Grupo Abril
+- Gym Climber
+- Haaretz.co.il
+- Haaretz.com
+- Haarlems Dagblad
+- Hamburger Abendblatt
+- Handelsblatt
+- Hannoversche Allgemeine Zeitung
+- Harper's Magazine
+- Hartford Courant
+- Harvard Business Review
+- Harvard Business Review China
+- Helsingin Sanomat
+- Herald Sun
+- Het Belang van Limburg
+- Het Nieuwsblad
+- Hindustan Times
+- Honolulu Star-Advertiser
+- House Beautiful
+- Houston Chronicle
+- Hoy
+- Huffingtonpost.it
+- Humo
+- IJmuider Courant
+- Ideal
+- Il Fatto Quotidiano
+- Il Foglio
+- Il Gazzettino
+- Il Giorno
+- Il Mattino
+- Il Messaggero
+- Il Resto del Carlino
+- Il Secolo XIX
+- Il Telegrafo Livorno
+- Illawarra Mercury
+- Iltalehti
+- Inc.com
+- Inc42
+- India Today
+- Información
+- Inkl
+- Intelligent Investor
+- Internazionale
+- Intrafish
+- Investors' Chronicle
+- Irish Independent
+- Italia Oggi
+- Italian.tech
+- Kauppalehti
+- Kieler Nachrichten
+- Knack
+- Krautreporter.de
+- Kurier.at
+- Kölner Stadt-Anzeiger
+- Kölnische Rundschau
+- L'Aisne nouvelle
+- L'Alsace
+- L'Ardennais
+- L'Est Républicain
+- L'Est-Éclair
+- L'Express
+- L'Indépendant
+- L'Obs
+- L'Oeil de la Photographie (fr/en)
+- L'Opinion
+- L'Union
+- L'Usine Nouvelle
+- L'Écho
+- L'Équipe
+- La Croix
+- La Dépêche du Midi
+- La Libre
+- La Montagne
+- La Nación
+- La Nazione
+- La Nouvelle République des Pyrénées
+- La Nouvelle République du Centre-Ouest
+- La Nueva España
+- La Nuova Sardegna
+- La Provincia
+- La Repubblica
+- La Rioja
+- La République des Pyrénées
+- La Stampa
+- La Tribune
+- La Vanguardia
+- La Verdad
+- La Vie
+- La Voix du Nord
+- La Voz de Cádiz
+- Las Provincias
+- Law.com
+- Law360
+- Le Bien Public
+- Le Courrier picard
+- Le Dauphiné Libéré
+- Le Devoir
+- Le Journal de Saône-et-Loire
+- Le Journal du Dimanche
+- Le Journal du Net
+- Le Nouvel Economiste
+- Le Parisien
+- Le Petit Bleu d'Agen
+- Le Progrès
+- Le Républicain Lorrain
+- Le Scienze
+- Le Soir
+- Le Télégramme
+- Le Vif
+- Leeuwarder Courant
+- Leidsch Dagblad
+- Leipziger Volkszeitung
+- Les Inrockuptibles
+- Les Échos
+- Levante-EMV
+- Lexington Herald-Leader
+- Libération Champagne
+- LimesOnline (it/en)
+- Live Law
+- LiveMint
+- Loeb Classical Library
+- London Review of Books
+- Los Angeles Business Journal
+- Los Angeles Times
+- Lübecker Nachrichten
+- MIT Sloan Management Review
+- MIT Technology Review
+- MLive/Michigan
+- Mainichi Shimbun
+- Mallorca Zeitung
+- Marca
+- Marianne
+- MarketWatch
+- Markkinointi & Mainonta
+- MediaNama
+- Medium
+- Mediuutiset
+- Men's Health
+- Miami Herald
+- Mid-Day
+- Midi Libre
+- Midi Olympique
+- Mikrobitti
+- Milwaukee Journal Sentinel
+- Mitteldeutsche Zeitung
+- Modern Healthcare
+- Monaco-Matin
+- Mountain View Voice
+- Märkische Allgemeine
+- Münstersche Zeitung
+- NJ/New Jersey
+- NRC Handelsblad
+- National Geographic USA
+- National Post
+- National Review
+- Nautilus
+- Neue Osnabrücker Zeitung
+- Neue Presse (Hannover)
+- Neue Ruhr Zeitung
+- Neue Zürcher Zeitung (+ regional/opt-in to custom sites)
+- New Left Review
+- New York Daily News
+- New York Magazine
+- New Zealand Herald
+- Newcastle Herald
+- Newsday
+- Newsweek
+- Niagara Falls Review
+- Nikkei Asian Review
+- Noordhollands Dagblad
+- Nord Littoral
+- Nord Éclair
+- Nordwest Zeitung
+- Northern Territory News
+- NyTeknik
+- Nürnberger Nachrichten
+- O Estado de S. Paulo
+- O Globo
+- Observador
+- Orange County Register
+- Orlando Sentinel
+- Ostsee-Zeitung
+- Ostthüringer Zeitung
+- Outlook
+- Outside
+- Oxygen
+- Palo Alto Online
+- Paris Match
+- Paris Normandie
+- Parool
+- Peloton
+- Peterborough Examiner
+- Philosophy Now
+- Piqd.de
+- Pittsburgh Post Gazette
+- Podium Runner
+- Política Exterior
+- Popular Mechanics
+- Precision Oncology News
+- Prevention
+- Prospect Magazine
+- Puck.news
+- Quartz
+- Quora
+- Quotidiano Nazionale
+- Quotidiano di Puglia
+- Recharge
+- RedaktionsNetzwerk Deutschland
+- Reuters
+- Rhein-Zeitung
+- Richmond Times-Dispatch
+- Road & Track
+- Rock and Ice
+- Rolling Stone
+- RugbyPass
+- Runner's World
+- S&P Global
+- SKI
+- San Antonio Express-News
+- San Diego Union Tribune
+- San Francisco Chronicle
+- Schleswig-Holsteinischer Zeitungsverlag
+- Schweriner Volkszeitung
+- Science
+- Science & Vie
+- Sciences et Avenir
+- Scientific American
+- Seeking Alpha
+- Slate
+- SlideShare
+- SofRep
+- South China Morning Post
+- Southern Weekly
+- Sportico
+- Sports Illustrated
+- St. Catharines Standard
+- St. Paul Pioneer Press
+- Star Tribune
+- Staten Island Advance
+- Statista
+- Stock News
+- Stratfor
+- Study.com (no videos)
+- SudInfo
+- SunSentinel
+- Sur
+- Talouselämä
+- Tampa Bay Times
+- Tech in Asia
+- Tekniikka & Talous
+- Telegraaf
+- The Advertiser/AdelaideNow
+- The Advocate
+- The Age
+- The American Interest
+- The Arizona Republic
+- The Art Newspaper
+- The Athletic
+- The Athletic UK
+- The Atlanta Journal-Constitution
 - The Atlantic
+- The Australian
+- The Australian Financial Review
+- The Border Mail
+- The Boston Globe
+- The Buffalo News
+- The Business Journals
+- The Business of Fashion
+- The Canberra Times
+- The Charlotte Observer
+- The Christian Science Monitor
+- The Chronicle
+- The Cincinnati Enquirer
+- The Courier-Journal
+- The Cut
+- The Daily Advertiser
+- The Daily Beast
+- The Daily Telegraph
+- The Daily Wire
+- The Dallas Morning News
+- The Denver Post
+- The Detroit News
+- The Diplomat
+- The Economic Times (ET Prime)
+- The Economist
+- The Examiner
+- The Express-Times
+- The Financial Express
+- The Fresno Bee
+- The Globe and Mail
+- The Hamilton Spectator
+- The Hill Times
+- The Hindu
+- The Hindu BusinessLine
+- The Hollywood Reporter
+- The Independent
+- The Indian Express
+- The Indianapolis Star
+- The Intercept
+- The Jerusalem Post
+- The Kansas City Star
+- The Lawyer's Daily
+- The Marker
+- The Market
+- The Mercury News
+- The Mercury Tasmania
+- The Morning Call
+- The Nation
+- The New Atlantis
+- The New Orleans Advocate/The Times-Picayune
+- The New Republic
+- The New Statesman
+- The New York Review of Books
+- The New York Times
+- The New Yorker
+- The News & Observer
+- The Northern Daily Leader
+- The Oregonian
+- The Patriot-News
+- The Philadelphia Inquirer
+- The Plain Dealer
+- The Point Magazine
+- The Post-Standard
+- The Press-Enterprise
+- The Province
+- The Record (North Jersey)
+- The Republican
+- The Sacramento Bee
+- The Saturday Paper
+- The Seattle Times
+- The Spectator
+- The Spectator Australia
+- The Spectator World
+- The Standard
+- The Star Malaysia
+- The State
+- The Sydney Morning Herald
+- The Telegraph
+- The Tennessean
+- The Times (link to archive.today)
+- The Times Literary Supplement
+- The Toronto Star
+- The Virginian-Pilot
+- The Wall Street Journal
+- The Washington Post
+- The Weekly Times
+- The West Australian (+ regional/opt-in to custom sites)
+- The Wichita Eagle
+- The Wrap
+- Thüringer Allgemeine
+- Thüringische Landeszeitung
+- Time Magazine
+- Times Higher Education
+- Times of India
+- Tivi
+- Toronto Sun
+- Towards Data Science
+- Town & Country
+- Townsville Bulletin
+- TradeWinds
+- Trail Runner
+- Tri-City Herald
+- Triathlete
+- Trouw
+- Tulsa World
+- Télérama
+- USA Today
+- UnHerd
+- Upstream
+- Uusi Suomi
+- Valeurs Actuelles
+- Valor Econômico
+- Vancouver Sun
+- Vanity Fair
+- Var-Matin
+- Variety
+- Vegetarian Times
+- Velo News
+- VentureBeat
+- Vogue Business
+- Vogue USA
+- Volkskrant
+- Volksstimme
+- Vosges Matin
+- Vrij Nederland
+- Vulture
+- WAtoday
+- WWD
+- Waterloo Region Record
+- Welland Tribune
+- Westdeutsche Allgemeine Zeitung
+- Westdeutsche Zeitung
+- Western Advocate
+- Westfalen-Blatt
+- Westfalenpost
+- Westfälische Nachrichten
+- Westfälische Rundschau
+- Winnipeg Free Press
+- Winston-Salem Journal
+- Wired
+- Women's Health
+- Women's Running
+- World Politics Review
+- Yoga Journal
+- The Courier
+- eNotes
+- iPolitics
+- Ámbito
 
 ---
 

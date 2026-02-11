@@ -34,6 +34,10 @@ This guide explains how to install the FreeNews extension manually on your brows
 
 ### <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /> Mozilla Firefox
 
+1. go to https://addons.mozilla.org/en-GB/firefox/addon/free-news-extension/
+
+OR
+
 1.  Open Firefox and navigate to: `about:debugging#/runtime/this-firefox`
 2.  Click the **Load Temporary Add-on...** button.
 3.  Navigate to the extracted folder and select the `manifest.json` file.
