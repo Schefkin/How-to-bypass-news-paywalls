@@ -58,3 +58,15 @@ Following functionality is still under development:
 - Text and Layout
 - Themes
 - Read Aloud
+
+---
+
+### Showcase
+
+Reader View:
+![showcase](./showcase.png "showcase")
+
+---
+Extension look:
+
+![showcase](./showcase2.png "showcase")
